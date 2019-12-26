@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="465px" height="174px" viewBox="0 0 465 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="36.2507156%" cy="27.4181659%" fx="36.2507156%" fy="27.4181659%" r="77.0742045%" gradientTransform="translate(0.362507,0.274182),scale(1.000000,0.999721),rotate(143.806919),translate(-0.362507,-0.274182)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FF0000" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-30.000000, -16.000000)">
+            <path id="path3003-copy" d="M446.747089,107.97347 L60,107.97347 L60,105.691846 L446.747089,105.691846 L446.747089,99.1286002 L461.747089,106.832658 L446.747089,114.536716 L446.747089,107.97347 Z" fill="#000000" fill-rule="nonzero"></path>
+            <path d="M243.655372,106.832658 C243.657148,113.203061 240.259599,119.090316 234.742964,122.27603 C229.22633,125.461745 222.429043,125.461745 216.912408,122.27603 C211.395773,119.090316 207.998224,113.203061 208.000001,106.832658 C207.998224,100.462255 211.395773,94.5750001 216.912408,91.3892858 C222.429043,88.2035714 229.22633,88.2035714 234.742964,91.3892858 C240.259599,94.5750001 243.657148,100.462255 243.655372,106.832658 Z" id="path4428-copy-2" stroke="#000000" stroke-width="2.7731958" fill="url(#radialGradient-1)" fill-rule="nonzero"></path>
+            <path d="M348.655372,106.832658 C348.657148,113.203061 345.259599,119.090316 339.742964,122.27603 C334.22633,125.461745 327.429043,125.461745 321.912408,122.27603 C316.395773,119.090316 312.998224,113.203061 313.000001,106.832658 C312.998224,100.462255 316.395773,94.5750001 321.912408,91.3892858 C327.429043,88.2035714 334.22633,88.2035714 339.742964,91.3892858 C345.259599,94.5750001 348.657148,100.462255 348.655372,106.832658 Z" id="path4428-copy-3" stroke="#000000" stroke-width="2.7731958" fill="url(#radialGradient-1)" fill-rule="nonzero"></path>
+            <path d="M146.655372,106.832658 C146.657148,113.203061 143.259599,119.090316 137.742964,122.27603 C132.22633,125.461745 125.429043,125.461745 119.912408,122.27603 C114.395773,119.090316 110.998224,113.203061 111.000001,106.832658 C110.998224,100.462255 114.395773,94.5750001 119.912408,91.3892858 C125.429043,88.2035714 132.22633,88.2035714 137.742964,91.3892858 C143.259599,94.5750001 146.657148,100.462255 146.655372,106.832658 Z" id="path4428-copy" stroke="#000000" stroke-width="2.7731958" fill="url(#radialGradient-1)" fill-rule="nonzero"></path>
+            <text id="notification" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="-0.223999995" fill="#808080">
+                <tspan x="93.4776861" y="158">notification</tspan>
+            </text>
+            <text id="notification-copy" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="-0.223999995" fill="#808080">
+                <tspan x="190.477686" y="158">notification</tspan>
+            </text>
+            <text id="notification-copy-2" font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="-0.223999995" fill="#808080">
+                <tspan x="295.477686" y="158">notification</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

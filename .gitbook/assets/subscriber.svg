@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1056px" height="926px" viewBox="0 0 1056 926" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>subscriber</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-6" transform="translate(132.000000, 73.775490)">
+            <g id="Group-5">
+                <rect id="Rectangle" fill="#5497C1" x="0" y="0" width="204" height="97.2245098"></rect>
+                <text id="Publisher" font-family="SFProText-Regular, SF Pro Text" font-size="27" font-weight="normal" letter-spacing="-0.43199999" fill="#FFFFFF">
+                    <tspan x="44.5321347" y="58.1122549">Publisher</tspan>
+                </text>
+            </g>
+            <g id="Group-5-Copy" transform="translate(546.000000, 98.000000)">
+                <rect id="Rectangle" fill="#A196CC" x="0" y="0" width="204" height="97.2245098"></rect>
+                <text id="Subscriber" font-family="SFProText-Regular, SF Pro Text" font-size="27" font-weight="normal" letter-spacing="-0.43199999" fill="#FFFFFF">
+                    <tspan x="35.1504785" y="58.1122549">Subscriber</tspan>
+                </text>
+            </g>
+            <path d="M102,97.2245098 L102,783.655801" id="Line-5" stroke="#5497C1" stroke-width="3" stroke-linecap="square"></path>
+            <path d="M92.5,783.215709 L111,783.215709" id="Line-6" stroke="#5497C1" stroke-width="3" stroke-linecap="square"></path>
+            <text id="subscribe（" font-family="SFProText-Regular, SF Pro Text" font-size="27" font-weight="normal" letter-spacing="-0.43199999" fill="#000000">
+                <tspan x="389.077969" y="154">subscribe</tspan>
+                <tspan x="509.854031" y="154" font-family="PingFangSC-Regular, PingFang SC">（</tspan>
+            </text>
+            <text id="）" font-family="PingFangSC-Regular, PingFang SC" font-size="27" font-weight="normal" letter-spacing="-0.43199999" fill="#000000">
+                <tspan x="764.716" y="156.22451">）</tspan>
+            </text>
+            <path id="Line-7" d="M143.00475,144.784295 L366.004839,145.504855 L365.995145,148.504839 L142.995057,147.784279 L142.969207,155.784237 L124.000003,146.222894 L143.0306,136.784336 L143.00475,144.784295 Z" fill="#808080" fill-rule="nonzero"></path>
+            <path id="Line-7-Copy" d="M655.25,764.715709 L655.25,208.165129 L658.25,208.165129 L658.25,764.715709 L666.25,764.715709 L656.75,783.715709 L647.25,764.715709 L655.25,764.715709 Z" fill="#A196CC" fill-rule="nonzero"></path>
+            <path id="Line-7-Copy-2" d="M616,290.22451 L123,290.22451 L123,287.22451 L616,287.22451 L616,279.22451 L635,288.72451 L616,298.22451 L616,290.22451 Z" fill="#5497C1" fill-rule="nonzero"></path>
+            <text id="receive(subscription" font-family="PingFangSC-Regular, PingFang SC" font-size="27" font-weight="normal" letter-spacing="-0.43199999" fill="#000000">
+                <tspan x="244.9535" y="265">receive(subscription:)</tspan>
+            </text>
+            <path id="Line-7-Copy-4" d="M615.75,494 L122.75,494 L122.75,491 L615.75,491 L615.75,483 L634.75,492.5 L615.75,502 L615.75,494 Z" fill="#5497C1" fill-rule="nonzero"></path>
+            <text id="receive(_-:-Input)" font-family="PingFangSC-Regular, PingFang SC" font-size="27" font-weight="normal" letter-spacing="-0.43199999" fill="#000000">
+                <tspan x="273.58" y="468.77549">receive(_ : Input)</tspan>
+            </text>
+            <path id="Line-7-Copy-5" d="M615.75,569.77549 L122.75,569.77549 L122.75,566.77549 L615.75,566.77549 L615.75,558.77549 L634.75,568.27549 L615.75,577.77549 L615.75,569.77549 Z" fill="#5497C1" fill-rule="nonzero"></path>
+            <text id="receive(_-:-Input)-Copy" font-family="PingFangSC-Regular, PingFang SC" font-size="27" font-weight="normal" letter-spacing="-0.43199999" fill="#000000">
+                <tspan x="273.58" y="544.55098">receive(_ : Input)</tspan>
+            </text>
+            <path id="Line-7-Copy-6" d="M615.75,729.086765 L122.75,729.086765 L122.75,726.086765 L615.75,726.086765 L615.75,718.086765 L634.75,727.586765 L615.75,737.086765 L615.75,729.086765 Z" fill="#5497C1" fill-rule="nonzero"></path>
+            <text id="receive(completion:)" font-family="PingFangSC-Regular, PingFang SC" font-size="27" font-weight="normal" letter-spacing="-0.43199999" fill="#000000">
+                <tspan x="251.6425" y="703.862255">receive(completion:)</tspan>
+            </text>
+            <path id="Line-7-Copy-3" d="M615.25,385.086765 L122.25,385.086765 L122.25,382.086765 L615.25,382.086765 L615.25,374.086765 L634.25,383.586765 L615.25,393.086765 L615.25,385.086765 Z" fill="#A196CC" fill-rule="nonzero"></path>
+            <text id="request(_-:-Demand)" font-family="PingFangSC-Regular, PingFang SC" font-size="27" font-weight="normal" letter-spacing="-0.43199999" fill="#000000">
+                <tspan x="250.4945" y="359.862255">request(_ : Demand)</tspan>
+            </text>
+            <circle id="Oval" fill="#808080" cx="379" cy="604.22451" r="5"></circle>
+            <circle id="Oval-Copy" fill="#808080" cx="379" cy="619.22451" r="5"></circle>
+            <circle id="Oval-Copy-2" fill="#808080" cx="379" cy="634.22451" r="5"></circle>
+        </g>
+    </g>
+</svg>
