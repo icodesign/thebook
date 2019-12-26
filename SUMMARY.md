@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
-* [Blog](https://icodesign.me)
+* [Index](README.md)
 
 ## iOS
 
